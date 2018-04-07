@@ -13,6 +13,8 @@
 <p>The app works both on iOS and Android</p>
 
 ### Demo Video
+> https://www.youtube.com/watch?v=pZ2hbjioeI0
+
 
 
 <img src="http://niksingh.net/img/feedMeHome.png" width="425" /> <img src="http://niksingh.net/img/feedMeMap.png" width="425" /> 
