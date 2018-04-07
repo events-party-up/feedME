@@ -15,7 +15,7 @@
 <p>The app works both on iOS and Android</p>
 
 ### Demo Video
-> https://www.youtube.com/watch?v=pZ2hbjioeI0
+[View it here](https://www.youtube.com/watch?v=pZ2hbjioeI0)
 
 
 
