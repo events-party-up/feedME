@@ -24,7 +24,7 @@
 
 
 ### Next steps
-> * Add back-end using MongoDB and Node.js. <br />
-> * Create a Profile Page for users. <br />
-> * Add modifications to the Create Events Form. <br />
-> * Publish App.
+ * Add back-end using MongoDB and Node.js. <br />
+ * Create a Profile Page for users. <br />
+ * Add modifications to the Create Events Form. <br />
+ * Publish App.
