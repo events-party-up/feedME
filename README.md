@@ -7,8 +7,8 @@
 
 
 ### Tech Stack
-> * React Native <br />
-> * Google Maps API <br />
+ * React Native <br />
+ * Google Maps API <br />
 
 
 ### Platform Support
